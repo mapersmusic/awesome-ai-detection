@@ -1,2 +1,51 @@
-# awesome-ai-detection
+# Awesome AI Detection
 A curated list of software, services, and resources to detect AI content
+
+---
+
+**Table Of Contents**
+
+- [Text](#text)
+- [Image](#image)
+- [Audio](#audio)
+  - [Services](#services)
+
+## Text
+
+- [AI Content Detector] - A List of AI Content Detectors Services
+
+[AI Content Detector]: https://github.com/ai-detected/ai-content-detectors
+
+## Image
+
+- [Awesome AIGC Image Video Detection] - A awesome list about AI Image and Video detection
+
+[Awesome AIGC Image Video Detection]: https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection
+
+## Audio
+
+- [SONICS] - A dataset of Real songs and AI generated songs
+- [Deezer AI Music Detector]
+- [FST AI Music Detection]
+- [MERT] - A model to extract embeddings from acoustic music
+- [Music AI Detection Standard] - A scoring way to evaluate an artist
+
+[SONICS]: https://github.com/awsaf49/sonics
+[Deezer AI Music Detector]: https://github.com/deezer/ismir25-ai-music-detector
+[FST AI Music Detection]: https://github.com/Mippia/FST-AI-Music-Detection
+[MERT]: https://github.com/yizhilll/MERT
+[Music AI Detection Standard]: https://github.com/mapersmusic/Music-AI-Detection-Standard
+
+### Services
+
+- [AI Song Checker] - Online detector based on [SONICS]
+- [Lets Summit AI Checker] - Online detector based on a MERT model
+- [AHA Music AI Detector] - Online detector based on [ACRCloud]
+- [The Ghost Production AI Detector] - Online detector based on [ACRCloud]
+- [ACRCloud] - An api provider specialised in major music generation tools detection
+
+[AI Song Checker]: https://www.submithub.com/ai-song-checker
+[Lets Summit AI Checker]: https://letssubmit.com/ai-music-checker
+[AHA Music AI Detector]: https://aha-music.com/aimusicdetector
+[The Ghost Production AI Detector]: https://theghostproduction.com/ai-music-detector
+[ACRCloud]: https://www.acrcloud.com/ai-music-detector
