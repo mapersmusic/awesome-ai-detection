@@ -1,4 +1,13 @@
-# Awesome AI Detection
+<h1 align="center"> Awesome AI Detection</h1>
+
+<div align="center">
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mapersmusic.awesome-ai-detection&left_color=green&right_color=red)]()
+[![GitHub Stars](https://img.shields.io/github/stars/mapersmusic/awesome-ai-detection?style=social)]()
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
+
+</div>
+
 A curated list of software, services, and resources to detect AI content
 
 ---
@@ -19,8 +28,10 @@ A curated list of software, services, and resources to detect AI content
 ## Image
 
 - [Awesome AIGC Image Video Detection] - A awesome list about AI Image and Video detection
+- [Awesome AI-generated Image Detection] - A awesome list about AI Image detection
 
 [Awesome AIGC Image Video Detection]: https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection
+[Awesome AI-generated Image Detection]: https://github.com/nxZhai/Awesome-AI-generated-Image-Detection
 
 ## Audio
 
