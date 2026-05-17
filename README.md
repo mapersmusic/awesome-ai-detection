@@ -17,6 +17,7 @@ A curated list of software, services, and resources to detect AI content
 - [Text](#text)
 - [Image](#image)
 - [Audio](#audio)
+  - [Tools](#tools)
   - [Services](#services)
 
 ## Text
@@ -46,6 +47,12 @@ A curated list of software, services, and resources to detect AI content
 [FST AI Music Detection]: https://github.com/Mippia/FST-AI-Music-Detection
 [MERT]: https://github.com/yizhilll/MERT
 [Music AI Detection Standard]: https://github.com/mapersmusic/Music-AI-Detection-Standard
+
+### Tools
+
+- [Quicksilver] - An detection extension for chromium based on [Deezer AI Music Detector]
+
+[Quicksilver]: https://www.etch-humanity.org/etch-lab/quicksilver-plugin
 
 ### Services
 
