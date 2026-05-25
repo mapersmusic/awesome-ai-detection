@@ -16,6 +16,7 @@ A curated list of software, services, and resources to detect AI content
 
 - [Text](#text)
 - [Image](#image)
+  - [Services](#services)
 - [Audio](#audio)
   - [Tools](#tools)
   - [Services](#services)
@@ -30,9 +31,15 @@ A curated list of software, services, and resources to detect AI content
 
 - [Awesome AIGC Image Video Detection] - A awesome list about AI Image and Video detection
 - [Awesome AI-generated Image Detection] - A awesome list about AI Image detection
+- [Awesome AI Generated Video Detection] - Latest Papers on AI-Generated Video Detection and Related Areas
+- [Daisy Zhang Awesome AIGC Detection] - A comprehensive collection of papers, datasets, and tools for AI-Generated Content (AIGC) detection research.
+- [MuskAI Awesome AIGC Detection] - This is a collection list of AIGC Detection related research
 
 [Awesome AIGC Image Video Detection]: https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection
 [Awesome AI-generated Image Detection]: https://github.com/nxZhai/Awesome-AI-generated-Image-Detection
+[Awesome AI Generated Video Detection]: https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection
+[Daisy Zhang Awesome AIGC Detection]: https://github.com/Daisy-Zhang/Awesome-AIGC-Detection
+[MuskAI Awesome AIGC Detection]: https://github.com/MuskAI/Awesome-AIGC-Detection
 
 ### Services
 
