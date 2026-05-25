@@ -36,7 +36,7 @@ A curated list of software, services, and resources to detect AI content
 
 ### Services
 
-- [OpenAI Image Verify]: Online detector that read C2PA metadata and SynthID watermarks
+- [OpenAI Image Verify] - Online detector that read C2PA metadata and SynthID watermarks
 
 [OpenAI Image Verify]: https://openai.com/research/verify
 
