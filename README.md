@@ -34,6 +34,12 @@ A curated list of software, services, and resources to detect AI content
 [Awesome AIGC Image Video Detection]: https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection
 [Awesome AI-generated Image Detection]: https://github.com/nxZhai/Awesome-AI-generated-Image-Detection
 
+### Services
+
+- [OpenAI Image Verify]: Online detector that read C2PA metadata and SynthID watermarks
+
+[OpenAI Image Verify]: https://openai.com/research/verify
+
 ## Audio
 
 - [SONICS] - A dataset of Real songs and AI generated songs
