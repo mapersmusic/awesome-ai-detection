@@ -24,8 +24,10 @@ A curated list of software, services, and resources to detect AI content
 ## Text
 
 - [AI Content Detector] - A List of AI Content Detectors Services
+- [Lucidity Detector] - AI bullshit detector with HDC poetry engine. Free 10 analyses/day, Premium 49kr/mån. Works in Swedish and English.
 
 [AI Content Detector]: https://github.com/ai-detected/ai-content-detectors
+[Lucidity Detector]: https://lucidity.gracestack.se
 
 ## Image
 
