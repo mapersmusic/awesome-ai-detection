@@ -44,8 +44,10 @@ A curated list of software, services, and resources to detect AI content
 ### Services
 
 - [OpenAI Image Verify] - Online detector that read C2PA metadata and SynthID watermarks
+- [FreeAIScanner] - Free educational guide to AI image scanner evidence: provenance, Content Credentials, metadata, and model signals with explicit limits (live scanning not yet available)
 
 [OpenAI Image Verify]: https://openai.com/research/verify
+[FreeAIScanner]: https://freeaiscanner.com/
 
 ## Audio
 
