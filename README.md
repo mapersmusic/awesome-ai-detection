@@ -24,8 +24,10 @@ A curated list of software, services, and resources to detect AI content
 ## Text
 
 - [AI Content Detector] - A List of AI Content Detectors Services
+- [Mydentify AI Watermark Detector] - Free browser checker for observable Unicode artifacts and style signals in Claude text; it does not prove authorship or a private statistical watermark.
 
 [AI Content Detector]: https://github.com/ai-detected/ai-content-detectors
+[Mydentify AI Watermark Detector]: https://mydentify.com/tools/ai-watermark-detector
 
 ## Image
 
