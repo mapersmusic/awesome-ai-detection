@@ -46,8 +46,10 @@ A curated list of software, services, and resources to detect AI content
 ### Services
 
 - [OpenAI Image Verify] - Online detector that read C2PA metadata and SynthID watermarks
+- [isthisaigenerated.app] - Free warning-only image checker; publishes measured accuracy slices and false-positive limitations and states that a score is not proof of origin or authorship
 
 [OpenAI Image Verify]: https://openai.com/research/verify
+[isthisaigenerated.app]: https://isthisaigenerated.app/site/
 
 ## Audio
 
