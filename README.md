@@ -73,6 +73,7 @@ A curated list of software, services, and resources to detect AI content
 
 ### Services
 
+- [Is This Song AI?](https://isthissongai.app/?utm_source=awesome_ai_detection) - Online tool for checking whether a song may be AI-generated.
 - [AI Song Checker] - Online detector based on [SONICS]
 - [Lets Summit AI Checker] - Online detector based on a MERT model
 - [AHA Music AI Detector] - Online detector based on [ACRCloud]
